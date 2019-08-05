@@ -1,2 +1,4 @@
 # hello-world
-This is my first github project.
+Hello developers!!
+
+I am a fetus programmer.Interested in Machine learning ,Deep Learning, AI.
